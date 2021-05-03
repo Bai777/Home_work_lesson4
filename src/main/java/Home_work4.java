@@ -13,7 +13,6 @@ public class Home_work4 {
     private static final char DOT_MAP_EMPTY = '.';
 
 
-
     public static void humanIsWalking(){
         int y, x;
 
